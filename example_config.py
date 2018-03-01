@@ -1,0 +1,1 @@
+API_KEY="Replace with personal Parallel Dots API key"
