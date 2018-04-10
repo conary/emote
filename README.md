@@ -31,19 +31,18 @@ brew install node.js
 27. Slick Install App to Workspace
 28. Take note of the bot access token
 
-For watson get a tone analyzer API Key
-For Plotly, get an API key
-Enter all of those into the .env file
-Go back to Terminal
-Navigate into the emote folder
-npm init
-Enter until you get to the end
-npm install slack
-npm install request
-npm install express
-npm install watson-developer-cloud
-
-node index.js
+29. For watson get a tone analyzer API Key
+30. For Plotly, get an API key
+31. Enter all of those into the .env file
+32. Go back to Terminal
+33. Navigate into the emote folder
+34. npm init
+35. Enter until you get to the end
+36. npm install slack
+37. npm install request
+38. npm install express
+39. npm install watson-developer-cloud
+40. node index.js
 
 
 
