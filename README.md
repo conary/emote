@@ -3,6 +3,7 @@
 1. Download the file, unzip it.
 2. Install ngrok and node.js
 3. brew install nvm
+brew install node.js
 4. source $(brew --prefix nvm)/nvm.sh
 5. nvm install 9
 6. Download ngrok from [https://ngrok.com]
@@ -36,6 +37,17 @@ Enter all of those into the .env file
 Go back to Terminal
 Navigate into the emote folder
 npm init
+Enter until you get to the end
+npm install slack
+npm install request
+npm install express
+npm install watson-developer-cloud
+
+node index.js
+
+
+
+
 
 Installation Instructions
 
