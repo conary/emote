@@ -1,13 +1,15 @@
 # emote
 
+https://api.slack.com/tutorials/watson-sentiment
+
+
 1. Download the file, unzip it.
 2. Install ngrok and node.js
 3. brew install nvm
 brew install node.js
 4. source $(brew --prefix nvm)/nvm.sh
 5. nvm install 9
-6. Download ngrok from [https://ngrok.com]
-7. Navigate to the folder you unzipped ngrok into
+6. Download ngrok from [https://ngrok.com] and unzip ngrok 
 8. ./ngrok http 3000
 9. Copy the temporary forwarding address (ends with .io)
 10. Create Slack workspace
@@ -45,19 +47,10 @@ brew install node.js
 40. node index.js
 
 
-
-
-
-Installation Instructions
-
-1. Install required modules using
-
-pip install -r requirements.txt 
-
-2. Rename example_config.py to config.py and enter personal ParallelDots API key.
-
-*************************
-
 Usage
+*****
 
-A single or multiple text strings can be entered. When 'e' is entered, the system will output the emotions associated with each text string, followed by the most dominant emotion.
+/emotion
+/overview
+/intervene
+/emotion list
