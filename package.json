@@ -1,0 +1,20 @@
+{
+  "name": "emote-distribution",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "plotly": "^1.0.6",
+    "python-shell": "^0.5.0",
+    "request": "^2.85.0",
+    "slack": "^11.0.0",
+    "watson-developer-cloud": "^3.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
